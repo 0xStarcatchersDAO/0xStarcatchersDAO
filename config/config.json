@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x442164343D80241e96a35A159983A3f977cF25E9",
+  "SCAN_LINK": "https://etherscan.io/address/0x442164343D80241e96a35A159983A3f977cF25E9",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "0xStarCatchers DAO",
+  "SYMBOL": "SCDAO",
+  "MAX_SUPPLY": 7777,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 67000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/0xstarcatchersdao",
+  "SHOW_BACKGROUND": true
+}
